@@ -1,5 +1,3 @@
-setwd("C:/Users/Lu Mingyuan/Documents/2. NUS Mathematics")
-setwd("./9. MA3220 Ordinary Differential Equations")
 options(scipen=999);rm(list=ls(all.names=T))
 opar=par(mar=c(bottom=0,left=2,top=0,right=2),mfrow=c(1,1),no.readonly=T) # Save init par
 plot.new();set.seed(1)
